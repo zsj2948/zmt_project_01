@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class SpringbootStart {
 
     public static void main(String[] args) {
-
+//sjsj
         SpringApplication.run(SpringbootStart.class, args);
         System.out.println("*******************************************\n" + 
         		"* 码云地址                                                                                                        *\n" + 
